@@ -1,0 +1,3 @@
+com\mycompany\bankws\BankIFace.class
+com\mycompany\bankws\Server.class
+com\mycompany\bankws\BankImpl.class
